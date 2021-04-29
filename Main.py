@@ -1,6 +1,8 @@
+import Board
+import Game
+import View
 class Main(object):
-    print("Hello World")
-
-
+    #Initializing Game
+    View.View.play()
 
 

@@ -1,4 +1,5 @@
-class my_class(object)
+class my_class(object):
+    pass
 #Tic Tac Toe game in python
 
 board = [' ' for x in range(10)]
@@ -126,3 +127,6 @@ while True:
         main()
     else:
         break
+
+
+
